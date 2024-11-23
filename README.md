@@ -1,0 +1,1 @@
+# neovim_config_2.0
